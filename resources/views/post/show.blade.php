@@ -3,6 +3,7 @@
 @section('title', 'Show Post')
 
 @section('content')
+<!-- session untuk konten -->
 <div class="row justify-content-center">
     <div class="col-md-8">
         <div class="card border-0 shadow-sm rounded">
